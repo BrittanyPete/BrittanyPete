@@ -21,9 +21,12 @@
 
 [![Brittany’s github stats](https://github-readme-stats.vercel.app/api?username=BrittanyPete)](https://github.com/BrittanyPete)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrittanyPete&layout=compact)](https://github.com/BrittanyPete)
+
+
 ## Contact Me:
 
-<a href=”https://www.linkedin.com/in/brittany-petersen/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 
 
