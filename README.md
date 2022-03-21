@@ -10,17 +10,15 @@
 
 ⚡ Fun fact: Birds terrify me, but my favorite animal is an owl.
 
+##Technical Skills:
+
+**Frontend**: JavaScript, HTML, CSS, React.js, Redux, Hooks, Jest, Axios, Context API, Cypress, Yup 
+**Backend**: Node.js, Express, SQL, sqlite3, knex 
+**Additional Skills**: Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Architecture, Debugging, Deployment, Postman API
+**Soft Skills**: Communication, Leadership, Training & Development, Project Management, Teamwork
+
+
+
 <!--
 **BrittanyPete/BrittanyPete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
