@@ -19,7 +19,7 @@
 
 ## Stats:
 
-https://github-readme-stats.vercel.app/api?username={BrittanyPete}&theme=blue-green
+https://github-readme-stats.vercel.app/api?username=BrittanyPete&theme=blue-green
 
 ## Contact Me:
 
