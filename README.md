@@ -1,6 +1,8 @@
 # Full Stack Web Developer
 
-### Hey! I'm Brittany!
+### Hey! :wave: I'm Brittany!
+
+- :computer: Currently, I am finishing up my course at Bloom Institute of Technology!
 
 <!--
 **BrittanyPete/BrittanyPete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
