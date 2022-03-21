@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: Birds terrify me, but my favorite animal is an owl.
 
-##Technical Skills:
+## Technical Skills:
 
 **Frontend**: JavaScript, HTML, CSS, React.js, Redux, Hooks, Jest, Axios, Context API, Cypress, Yup 
 **Backend**: Node.js, Express, SQL, sqlite3, knex 
