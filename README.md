@@ -25,9 +25,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BrittanyPete)
 
-## Contact Me:
+## Connect With Me:
 
-[![image](https://user-images.githubusercontent.com/92415478/159374784-5e87ce27-4bc8-429d-8eef-5b73cfc2c692.png "britt.petersen100@gmail.com")](mailto:britt.petersen100@gmail.com)
 [![image](https://user-images.githubusercontent.com/92415478/159374862-d6e6747b-bce7-4313-9375-3ac6095dc8d1.png "https://www.linkedin.com/in/brittany-petersen/")](https://www.linkedin.com/in/brittany-petersen/)
 
 
