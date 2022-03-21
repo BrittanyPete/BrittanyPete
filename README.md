@@ -14,13 +14,17 @@
 
 **Frontend**: JavaScript, HTML, CSS, React.js, Redux, Hooks, Jest, Axios, Context API, Cypress, Yup 
 **Backend**: Node.js, Express, SQL, sqlite3, knex 
-**Additional Skills**: Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Architecture, Debugging, Deployment, Postman API
+**Additional Skills**: GitHub, VS Code, Architecture, Debugging, Deployment, Postman API, Slack,  Vercel, Heroku, Heroku CLI, Git CLI,
 **Soft Skills**: Communication, Leadership, Training & Development, Project Management, Teamwork
+
+## Stats:
+
+https://github-readme-stats.vercel.app/api?username={BrittanyPete}&theme=blue-green
 
 ## Contact Me:
 
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 
 <!--
 **BrittanyPete/BrittanyPete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
