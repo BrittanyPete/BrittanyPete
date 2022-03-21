@@ -19,10 +19,11 @@
 
 ## Stats:
 
-https://github-readme-stats.vercel.app/api?username=BrittanyPete&theme=blue-green
+[https://github-readme-stats.vercel.app/api?username=BrittanyPete&theme=blue-green]
 
 ## Contact Me:
 
+Gmail: [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
 
 
 
