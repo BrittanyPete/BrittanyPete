@@ -1,4 +1,6 @@
-### Hi there 👋
+# Full Stack Web Developer
+
+### Hey! I'm Brittany!
 
 <!--
 **BrittanyPete/BrittanyPete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
