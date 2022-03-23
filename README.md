@@ -13,8 +13,11 @@
 ## Technical Skills:
 
 **Frontend**: JavaScript, HTML, CSS, React.js, Redux, Hooks, Jest, Axios, Context API, Cypress, Yup 
+
 **Backend**: Node.js, Express, SQL, sqlite3, knex 
+
 **Additional Skills**: GitHub, VS Code, Architecture, Debugging, Deployment, Postman API, Slack,  Vercel, Heroku, Heroku CLI, Git CLI,
+
 **Soft Skills**: Communication, Leadership, Training & Development, Project Management, Teamwork
 
 ## Stats:
