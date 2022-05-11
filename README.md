@@ -2,7 +2,7 @@
 
 ### Hey! :wave: I'm Brittany!
 
-💻 Currently, I am finishing up my course at Bloom Institute of Technology!
+💻 I just graduated from my full stack web developer course at Bloom Institute of Technology, and I am currently looking for my next opportunity.
 
 📈 I'm a life-long learner, always looking to improve. I'm currently learning data structures and algorithms.
 
